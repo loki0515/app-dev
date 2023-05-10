@@ -4,8 +4,9 @@ My repository
   <head>
   </head>
   <body>
-    <h1> My favorite series </h1>
+    
+    <center><h1> My favorite series </h1></center>
   </body> All of us are dead
-  </body> Alice in Borderland
-  </body> Squid Game
+          Alice in Borderland
+          Squid Game
   </html>
