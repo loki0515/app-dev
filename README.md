@@ -5,7 +5,7 @@ My repository
   </head>
   <body>
     
-    <center><h1> My favorite series</h1></center>
+    <center> <h1> My favorite series</h1> </center>
    <Ol>
     <li> All of us are dead </li>
     <li> Alice in Borderland </li>
